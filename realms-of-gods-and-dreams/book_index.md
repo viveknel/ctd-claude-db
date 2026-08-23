@@ -36,7 +36,15 @@ East-line books), and version history (original release → Version 2:
 revised Defilement-accrual rules, ad hoc Kinship rules, Appendix II added
 → Version 2.1: further corrections). Copyright notice confirms this is
 licensed Storyteller's Vault content using White Wolf/World of Darkness
-IP, not an Onyx Path-published core book.
+IP, not an Onyx Path-published core book. **Authorship note:** the
+credits ("Written by: Sebastian Noh (Hsienfan)... Developed by: Sebastian
+Noh, with assistance from RPGnet") match the credits of the fan-made
+Vampire: The Masquerade supplement *Kindred of the East: The Relentless
+Age* ("Written By: hsienfan / Developed By: hsienfan, with assistance
+from RPGnet"), which shares the same pseudonym, the same "developed with
+RPGnet" collaboration model, and the same named collaborators (Coco
+Vanille, Tommy Lee) — strong evidence the two books share an author. See
+this bundle's README for the full comparison.
 
 ## Introduction: Land of Endless Dreams (pp. 7-18)
 **Summary:** Opens with a fiction vignette (a drowning smuggler saved

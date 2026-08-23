@@ -162,6 +162,23 @@ rulebook — both remain independently usable, and the Gods and Dreams
 book's Appendix I and Chapter Five conversion guide exist specifically
 to let material move between the two.
 
+## Same author, different library
+`realms-of-gods-and-dreams` shares an author with a book in a separate
+*Kindred of the East* library that may be present alongside this one:
+*Kindred of the East: The Relentless Age*, a fan-made Vampire: The
+Masquerade supplement credited to "hsienfan." The credits pages of both
+books match closely — "Written by: Sebastian Noh (Hsienfan) / Developed
+by: Sebastian Noh, with assistance from RPGnet" here versus "Written By:
+hsienfan / Developed By: hsienfan, with assistance from RPGnet" there,
+plus the same named collaborators (Coco Vanille, Tommy Lee) — and
+`realms-of-gods-and-dreams` itself cites *The Relentless Age*'s
+Storytelling chapter by name for cultural-sensitivity guidance. This is
+authorial/stylistic connective tissue only, not a setting link: the two
+books are unrelated continuities (one Changeling-line, one Vampire-
+line), and nothing in either implies shared canon. See
+`realms-of-gods-and-dreams/book_index.md` and
+`realms-of-gods-and-dreams/README.md` for the full comparison.
+
 ## Cross-book query examples
 ```
 python3 scripts/query_library.py c20-core/book_chunks.db realms-of-gods-and-dreams/book_chunks.db "search terms"

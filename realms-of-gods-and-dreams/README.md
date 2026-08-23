@@ -32,6 +32,22 @@ book's own dating of the equivalent event (the Evanescence) to September
 11, 2001 — see this library's top-level `library_index.md` for the full
 discussion of how these two books relate and where they diverge.
 
+**Same author as *Kindred of the East: The Relentless Age*.** This
+book's credits page (p.4) lists "Written by: Sebastian Noh (Hsienfan) ...
+Developed by: Sebastian Noh, with assistance from RPGnet." *Kindred of
+the East: The Relentless Age* — a separate fan-made Vampire: The
+Masquerade supplement — carries the matching credit "Written By:
+hsienfan / Developed By: hsienfan, with assistance from RPGnet," plus
+the same collaborators (Coco Vanille on logo/layout, Tommy Lee on cover
+art). This book's own Introduction (p.9) even cites *The Relentless
+Age*'s Storytelling chapter by name for cultural-sensitivity guidance,
+and both books independently use the term "Hungry Dead" for their
+vampire-equivalent beings. Together this is strong internal evidence
+that "Sebastian Noh" and "hsienfan" are the same author across both
+books — worth knowing if tracing thematic or stylistic influence between
+this book and *The Relentless Age* (indexed separately in the Kindred of
+the East library).
+
 ## For a future Claude session: how to use this bundle
 
 1. Read `book_index.md` in full — it's small and gives you orientation
